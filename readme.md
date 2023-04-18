@@ -1,6 +1,11 @@
 # SQL Query Comparison
 
 This is a backup version of our group project.
+orignal contributor:
+@botbw
+@king159
+@Li-Jiayi-hahaha
+@WYing333
 
 ## Set up for database
 
