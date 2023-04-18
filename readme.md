@@ -1,6 +1,6 @@
 # SQL Query Comparison
 
-This is a copied version of group project.
+This is a backup version of our group project.
 
 ## Set up for database
 
