@@ -1,4 +1,6 @@
-# CZ4031 Project 2
+# SQL Query Comparison
+
+This is a copied version of group project.
 
 ## Set up for database
 
